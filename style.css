@@ -1,0 +1,15 @@
+body
+    {
+    background-color: #f5e1ec;
+    color: #002129;
+    }
+strong
+    {
+    color:#C9619C;
+    }
+span
+{
+    color: brown;
+    border: #002129;
+    padding: 30px;
+}
